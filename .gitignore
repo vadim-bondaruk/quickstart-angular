@@ -5,3 +5,6 @@ node_modules
 jspm_packages
 bower_components
 /.vscode/
+!systemjs-angular-loader.js
+!systemjs.config.js
+
